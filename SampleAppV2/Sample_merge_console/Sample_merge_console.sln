@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_merge_console", "Sample_merge_console\Sample_merge_console.csproj", "{2B5FA8C7-5413-4F99-B0AB-7DD0ED477024}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B5FA8C7-5413-4F99-B0AB-7DD0ED477024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5FA8C7-5413-4F99-B0AB-7DD0ED477024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5FA8C7-5413-4F99-B0AB-7DD0ED477024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5FA8C7-5413-4F99-B0AB-7DD0ED477024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
